@@ -87,7 +87,8 @@ print("Men " + meva + " yaxshi ko'raman")
 
 
 
-#Buning uchun input() funktsyasidan foydalanamiz.                             Shu paytgacha biz o'zgaruvchilarning qiymatini dasturning ichida berayotgan edik. Keling endi qiymatni o'zimiz emas, balki dastur foydalanuvchilariga kiritish imkonini beramiz. 
+#Buning uchun input() funktsyasidan foydalanamiz.                             
+#Shu paytgacha biz o'zgaruvchilarning qiymatini dasturning ichida berayotgan edik. Keling endi qiymatni o'zimiz emas, balki dastur foydalanuvchilariga kiritish imkonini beramiz. 
 
 ism = input("Ismingiz nima?")
 print("Assalom alaykum, " + ism)
